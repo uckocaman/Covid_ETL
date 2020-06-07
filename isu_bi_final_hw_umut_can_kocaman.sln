@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "isu_bi_final_hw_umut_can_kocaman", "isu_bi_final_hw_umut_can_kocaman\isu_bi_final_hw_umut_can_kocaman.dtproj", "{BDCB1D5D-E8A9-4EFC-AB19-929E264F2DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCB1D5D-E8A9-4EFC-AB19-929E264F2DAB}.Development|Default.ActiveCfg = Development
+		{BDCB1D5D-E8A9-4EFC-AB19-929E264F2DAB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8311E1-B750-4047-9974-833C0D8417BB}
+	EndGlobalSection
+EndGlobal
